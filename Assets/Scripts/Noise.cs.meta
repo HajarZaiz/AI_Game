@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: aa2dd4fd25078c94e8233ca489ac711f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - crunch: {instanceID: 0}
+  - crunchSound: {fileID: 8300000, guid: 43c0cfb2f81fad54cac054cf6ab097b5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
