@@ -12,12 +12,7 @@ This game is my first attempt at learning Unity 3D.
 
 ![Gameplay](https://user-images.githubusercontent.com/55946014/147847074-99af3ae7-66c8-4793-8d5c-9f99fc961d5f.jpg)
 
-### TO DOs
 
-- [ ] Work on the level design
-- [ ] Add the ability to crouch and hide behind objects.
-- [ ] Improve the enemy's chasing.
-- [ ] Work on having a learning enemy.
 
 
 
